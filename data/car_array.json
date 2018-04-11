@@ -1,0 +1,14 @@
+[
+  {
+    "brand": "Fox",
+    "doors": 1
+  },
+  {
+    "brand": "Ted",
+    "doors": 2
+  },
+  {
+    "brand": "Apple",
+    "doors": 3
+  }
+]
